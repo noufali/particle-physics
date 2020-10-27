@@ -1,2 +1,2 @@
 # particle-physics
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/22034616/97248532-63393380-17d8-11eb-96d5-f53c855a4c47.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/22034616/97248875-16a22800-17d9-11eb-8492-537921157a07.gif)
