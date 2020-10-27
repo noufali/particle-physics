@@ -1,0 +1,56 @@
+@font-face {
+  font-family: nouf;
+  src: url('TaubDisplay-A.ttf') format('truetype');
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#overlay{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+}
+#defaultCanvas0{
+  position: absolute;
+  top: 0px;
+  left: 0px; 
+}
+
+/* #txt{
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  width: 100%;
+  height: 100%;
+  font-family: nouf;
+  font-size: 50px;
+  font-variation-settings: 'wght' 0;
+  animation: fadein 4s infinite;
+} */
+/* @keyframes fadein {
+  0% {
+    opacity: 0;
+    transform: translateY(2em);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(0em);
+  }
+  100% {
+
+    font-variation-settings: 'wght' 800;
+  }
+} */
+img{
+  position: absolute;
+  top:50px;
+  left:100px;
+  width:40%;
+}
